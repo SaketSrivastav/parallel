@@ -1,0 +1,3 @@
+[submodule "multithreadingingo"]
+	path = multithreadingingo
+	url = https://github.com/cutajarj/multithreadingingo.git
